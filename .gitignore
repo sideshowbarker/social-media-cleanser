@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Safari extension build artifacts
+safari/
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+
+# Firefox signed extension
+web-ext-artifacts/
+.amo-upload-uuid
+
+# Chrome zip
+social-media-cleanser.zip
